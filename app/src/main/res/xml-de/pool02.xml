@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 2, Aufgabe 4 -->
+			<text></text>
+			<bild>block2_aufg4</bild>
+			<hilfe>
+			<!-- Symmetrieeigenschaften -->
+				<value>http://fbmathe.bbs-bingen.de/symmetrieeigenschaften/dbo04_mathematik.htm</value>
+        		<value>http://www.mathematrix.de/kurvendiskussion-symmetrie-punkt-achse/</value>
+				<value>http://www.onlinemathe.de/mathe/inhalt/Symmetrie</value>
+				<value>https://www.youtube.com/watch?v=78ZvTp4lVQs</value>
+				<value>https://www.youtube.com/watch?v=ILVEhEg3ybc</value>
+				<value>https://www.youtube.com/watch?v=-vNj5TMwB5k</value>
+			<!-- Definitions- Wertebereich und Grenzwerte berechnen -->
+				<value>http://www.mathebibel.de/grenzwert-gebrochenrationale-funktion</value>
+				<value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Grenzwerts%C3%A4tze:_Grenzwert_von_Folgen_berechnen</value>
+				<value>https://www.youtube.com/watch?v=GExx2tWLPUE</value>
+				<value>https://www.youtube.com/watch?v=6V13YiuJ-nc</value>
+				<value>https://www.youtube.com/watch?v=hLk2ujAk1pk</value>
+			<!-- Definitions- Wertebereich berechnen -->
+				<value>http://www.mathebibel.de/wertebereich-bestimmen</value>
+				<value>http://www.mathebibel.de/definitionsbereich-bestimmen</value>
+				<value>http://www.frustfrei-lernen.de/mathematik/wertemenge-wertebereich-bestimmen.html</value>
+				<value>https://www.youtube.com/watch?v=r9FeNr2XI2A</value>
+				<value>https://www.youtube.com/watch?v=vae0zt2onTQ</value>
+				<value>https://www.youtube.com/watch?v=bXVHCN4iANk</value>
+			</hilfe>
+			<loesung>block2_loesung4</loesung>
+			<time>9.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>0.5</avguf>
+			<avgdf></avgdf>
+			<avgut>4.47</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 2, Aufgabe 5 -->
+			<text></text>
+			<bild>block2_aufg5</bild>
+			<hilfe>
+			<!-- Symmetrieeigenschaften -->
+				<value>http://fbmathe.bbs-bingen.de/symmetrieeigenschaften/dbo04_mathematik.htm</value>
+        		<value>http://www.mathematrix.de/kurvendiskussion-symmetrie-punkt-achse/</value>
+				<value>http://www.onlinemathe.de/mathe/inhalt/Symmetrie</value>
+				<value>https://www.youtube.com/watch?v=78ZvTp4lVQs</value>
+				<value>https://www.youtube.com/watch?v=ILVEhEg3ybc</value>
+				<value>https://www.youtube.com/watch?v=-vNj5TMwB5k</value>
+			<!-- Definitions- Wertebereich und Grenzwerte berechnen -->
+				<value>http://www.mathebibel.de/grenzwert-gebrochenrationale-funktion</value>
+				<value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Grenzwerts%C3%A4tze:_Grenzwert_von_Folgen_berechnen</value>
+				<value>https://www.youtube.com/watch?v=GExx2tWLPUE</value>
+				<value>https://www.youtube.com/watch?v=6V13YiuJ-nc</value>
+				<value>https://www.youtube.com/watch?v=hLk2ujAk1pk</value>
+			<!-- Definitions- Wertebereich berechnen -->
+				<value>http://www.mathebibel.de/wertebereich-bestimmen</value>
+				<value>http://www.mathebibel.de/definitionsbereich-bestimmen</value>
+				<value>http://www.frustfrei-lernen.de/mathematik/wertemenge-wertebereich-bestimmen.html</value>
+				<value>https://www.youtube.com/watch?v=r9FeNr2XI2A</value>
+				<value>https://www.youtube.com/watch?v=vae0zt2onTQ</value>
+				<value>https://www.youtube.com/watch?v=bXVHCN4iANk</value>
+			</hilfe>
+			<loesung>block2_loesung5</loesung>
+			<time>11.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>0.5</avguf>
+			<avgdf></avgdf>
+			<avgut>5.25</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+	    <aufgabe id="3">
+		<!-- Block 3, Aufgabe 3 -->
+			<text></text>
+			<bild>block3_aufg3</bild>
+			<hilfe>
+				<value>http://www.frustfrei-lernen.de/mathematik/kurvendiskussion.html</value>
+        		<value>http://www.mathebibel.de/kurvendiskussion</value>
+				<value>http://www.mathematik-wissen.de/eine_komplette_kurvendiskussion.htm</value>
+				<value>https://www.youtube.com/watch?v=epCBOgwafp8</value>
+				<value>https://www.youtube.com/watch?v=DM9uYJK5-fc</value>
+			</hilfe>
+			<loesung>block3_loesung3</loesung>
+			<time>8.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>0</avguf>
+			<avgdf></avgdf>
+			<avgut>3.53</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+        <aufgabe id="4">
+		<!-- Block 3, Aufgabe 4 -->
+            <text></text>
+            <bild>block3_aufg4</bild>
+            <hilfe>
+                <value>http://www.frustfrei-lernen.de/mathematik/kurvendiskussion.html</value>
+        		<value>http://www.mathebibel.de/kurvendiskussion</value>
+				<value>http://www.mathematik-wissen.de/eine_komplette_kurvendiskussion.htm</value>
+				<value>https://www.youtube.com/watch?v=epCBOgwafp8</value>
+				<value>https://www.youtube.com/watch?v=DM9uYJK5-fc</value>
+			 </hilfe>
+            <loesung>block3_loesung4</loesung>
+			<time>8.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>1</avguf>
+			<avgdf></avgdf>
+			<avgut>3.93</avgut>
+			<avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+		<!-- Block 3, Aufgabe 5 -->
+            <text></text>
+            <bild>block3_aufg5</bild>
+            <hilfe>
+                <value>http://www.frustfrei-lernen.de/mathematik/kurvendiskussion.html</value>
+        		<value>http://www.mathebibel.de/kurvendiskussion</value>
+				<value>http://www.mathematik-wissen.de/eine_komplette_kurvendiskussion.htm</value>
+				<value>https://www.youtube.com/watch?v=epCBOgwafp8</value>
+				<value>https://www.youtube.com/watch?v=DM9uYJK5-fc</value>
+			</hilfe>
+            <loesung>block3_loesung5</loesung>
+			<time>12.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>0</avguf>
+			<avgdf></avgdf>
+			<avgut>5.98</avgut>
+			<avgdt></avgdt>
+        </aufgabe>
+	</aufgaben>
+</test>

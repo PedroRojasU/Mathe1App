@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 1, Aufgabe 1a -->
+			<text></text>
+			<bild>block1_aufg1a</bild>
+			<hilfe>
+                <value>http://www.fb10.uni-bremen.de/khwagner/grundkurs2/kapitel3.aspx</value>
+                <value>https://www.youtube.com/watch?v=Uq6661KAkYM</value>
+                <value>http://www.inf.fu-berlin.de/lehre/SS09/proinfI/bruecke.pdf</value>
+			</hilfe>
+			<loesung>block1_loesung1a</loesung>
+			<time>6.0</time>
+			<avguc>90</avguc>
+			<avgdc></avgdc>
+			<avguf>1.5</avguf>
+			<avgdf></avgdf>
+			<avgut>3.17</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 1, Aufgabe 1b -->
+			<text>Mengenlehre:</text>
+			<bild>block1_aufg1b</bild>
+			<hilfe>
+				<!-- Hilfeseiten von Aufgabe 1 - Mengenlehre -->
+				<value>http://www.mathebibel.de/mengenlehre</value>
+				<value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Mengenlehre:_Menge</value>
+        		<value>http://www.mathe-online.at/mathint/mengen/i.html</value>
+				<value>https://www.youtube.com/watch?v=gjkhpT4U2eY</value>
+				<value>https://www.youtube.com/watch?v=mW-xkpeQnzY</value>
+			</hilfe>
+			<loesung>block1_loesung1b</loesung>
+			<time>8</time>
+			<avguc>75</avguc>
+			<avgdc></avgdc>
+			<avguf>0.75</avguf>
+			<avgdf></avgdf>
+			<avgut>4.05</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="3">
+		<!-- Block 1, Aufgabe 1c -->
+			<text>Komplexe Zahlen:</text>
+			<bild>block1_aufg1c</bild>
+			<hilfe>
+				<value>http://www.mathebibel.de/komplexe-zahlen</value>
+                <value>http://www.mathe-online.at/mathint/komplex/i.html</value>
+				<value>http://www.frustfrei-lernen.de/mathematik/rechnen-mit-komplexen-zahlen.html</value>
+				<value>https://www.youtube.com/watch?v=bOeN4FV6lJs</value>
+				<value>https://www.youtube.com/watch?v=OcB3Eq_EjPk</value>
+				<value>https://www.youtube.com/watch?v=0rpefNAzuT8</value>
+			</hilfe>
+			<loesung>block1_loesung1c</loesung>
+			<time>8.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>1.25</avguf>
+			<avgdf></avgdf>
+			<avgut>2.83</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="4">
+		<!-- Block 1, Aufgabe 2b -->
+			<text>Mengenlehre:</text>
+			<bild>block1_aufg2b</bild>
+			<hilfe>
+				<!-- Hilfeseiten von Aufgabe 1 - Mengenlehre -->
+				<value>http://www.mathebibel.de/mengenlehre</value>
+				<value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Mengenlehre:_Menge</value>
+        		<value>http://www.mathe-online.at/mathint/mengen/i.html</value>
+				<value>https://www.youtube.com/watch?v=gjkhpT4U2eY</value>
+				<value>https://www.youtube.com/watch?v=mW-xkpeQnzY</value>
+			</hilfe>
+			<loesung>block1_loesung2b</loesung>
+			<time>8.5</time>
+			<avguc>85</avguc>
+			<avgdc></avgdc>
+			<avguf>1.25</avguf>
+			<avgdf></avgdf>
+			<avgut>4.10</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="5">
+		<!-- Block 1, Aufgabe 2c -->
+			<text></text>
+			<bild>block1_aufg2c</bild>
+			<hilfe>
+				<value>http://www.mathe-online.at/lernpfade/lernpfad_schubatzky/?kapitel=4</value>
+				<value>http://www.mathe-online.at/materialien/Andreas.Pester/files/ComNum/inhalte/Roots.html</value>
+        		<value>https://de.wikibooks.org/wiki/Komplexe_Zahlen/_Weitere_Rechenverfahren</value>
+				<value>https://www.youtube.com/watch?v=YsdvCMSwNIE</value>
+				<value>https://www.youtube.com/watch?v=v9cwPRbyFpo</value>
+			</hilfe>
+			<loesung>block1_loesung2c</loesung>
+			<time>9.0</time>
+			<avguc>70</avguc>
+			<avgdc></avgdc>
+			<avguf>1</avguf>
+			<avgdf></avgdf>
+			<avgut>4.78</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+	</aufgaben>
+</test>

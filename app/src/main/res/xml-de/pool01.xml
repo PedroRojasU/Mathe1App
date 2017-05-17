@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 1, Aufgabe 2a -->
+			<text></text>
+			<bild>block1_aufg2a</bild>
+			<hilfe>
+				<value>https://de.wikibooks.org/wiki/Mathematik_f%C3%BCr_Wirtschaftswissenschaftler:_Aussagenlogik</value>
+				<value>https://logik.phl.univie.ac.at/~chris/skriptum/node34.html</value>
+				<value>https://www.youtube.com/watch?v=_VMFi68LinI</value>
+				<value>https://www.youtube.com/watch?v=6BDjEZn_r14</value>
+			</hilfe>
+			<loesung>block1_loesung2a</loesung>
+            <time>9.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.5</avguf>
+            <avgdf></avgdf>
+            <avgut>4.47</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 1, Aufgabe 3b -->
+			<text>Mengenlehre:</text>
+			<bild>block1_aufg3b</bild>
+			<hilfe>
+				<!-- Hilfeseiten von Aufgabe 1 - Mengenlehre -->	
+				<value>http://www.mathebibel.de/mengenlehre</value>
+				<value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Mengenlehre:_Menge</value>
+				<value>http://www.mathe-online.at/mathint/mengen/i.html</value>
+				<value>https://www.youtube.com/watch?v=gjkhpT4U2eY</value>
+				<value>https://www.youtube.com/watch?v=mW-xkpeQnzY</value>
+			</hilfe>
+			<loesung>block1_loesung3b</loesung>
+            <time>11.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.5</avguf>
+            <avgdf></avgdf>
+            <avgut>5.25</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+        <aufgabe id="3">
+		<!-- Block 1, Aufgabe 3c -->
+            <text></text>
+            <bild>block1_aufg3c</bild>
+            <hilfe>
+                <value>http://www.mathe-online.at/materialien/Andreas.Pester/files/ComNum/inhalte/trigForm.html</value>
+				<value>http://www.mathepedia.de/Trigonometrische_Form.aspx</value>
+            </hilfe>
+            <loesung>block1_loesung3c</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.53</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+		<!-- Block 1, Aufgabe 4a -->
+            <text></text>
+            <bild>block1_aufg4a</bild>
+            <hilfe>
+                <value>http://www.mathebibel.de/mengenlehre</value>
+                <value>https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Mengenlehre:_Menge</value>
+				<value>http://www.mathe-online.at/mathint/mengen/i.html</value>
+				<value>https://www.youtube.com/watch?v=gjkhpT4U2eY</value>
+				<value>https://www.youtube.com/watch?v=mW-xkpeQnzY</value>
+			</hilfe>
+            <loesung>block1_loesung4a</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.93</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+		<!-- Block 1, Aufgabe 5c -->
+            <text></text>
+            <bild>block1_aufg5c</bild>
+            <hilfe>
+                <value>http://www.mathebibel.de/komplexe-zahlen</value>
+                <value>http://www.mathe-online.at/mathint/komplex/i.html</value>
+				<value>http://www.frustfrei-lernen.de/mathematik/rechnen-mit-komplexen-zahlen.html</value>
+				<value>https://www.youtube.com/watch?v=bOeN4FV6lJs</value>
+				<value>https://www.youtube.com/watch?v=OcB3Eq_EjPk</value>
+				<value>https://www.youtube.com/watch?v=0rpefNAzuT8</value>
+            </hilfe>
+            <loesung>block1_loesung5c</loesung>
+            <time>12.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>5.98</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+	</aufgaben>
+</test>

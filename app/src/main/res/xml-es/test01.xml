@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <!-- Block 1, Aufgabe 1a -->
+            <text></text>
+            <bild>block1_aufg1a</bild>
+            <hilfe>
+                <value>http://www.iep.utm.edu/prop-log/</value>
+                <value>http://infolab.stanford.edu/~ullman/focs/ch12.pdf</value>
+                <value>https://www.youtube.com/watch?v=qV4htTfow-E</value>
+            </hilfe>
+            <loesung>block1_loesung1a</loesung>
+            <time>6.0</time>
+            <avguc>90</avguc>
+            <avgdc></avgdc>
+            <avguf>1.5</avguf>
+            <avgdf></avgdf>
+            <avgut>3.17</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <!-- Block 1, Aufgabe 1b -->
+            <text>Teoría de conjuntos:</text>
+            <bild>block1_aufg1b</bild>
+            <hilfe>
+                <!-- Hilfeseiten von Aufgabe 1 - Mengenlehre -->
+                <value>https://www.youtube.com/watch?v=yCwnifwVjIg</value>
+            </hilfe>
+            <loesung>block1_loesung1b</loesung>
+            <time>8</time>
+            <avguc>75</avguc>
+            <avgdc></avgdc>
+            <avguf>0.75</avguf>
+            <avgdf></avgdf>
+            <avgut>4.05</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <!-- Block 1, Aufgabe 1c -->
+            <text>Números complejos:</text>
+            <bild>block1_aufg1c</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=yCwnifwVjIg</value>
+            </hilfe>
+            <loesung>block1_loesung1c</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1.25</avguf>
+            <avgdf></avgdf>
+            <avgut>2.83</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <!-- Block 1, Aufgabe 2b -->
+            <text>Teoría de conjuntos:</text>
+            <bild>block1_aufg2b</bild>
+            <hilfe>
+                <!-- Hilfeseiten von Aufgabe 1 - Mengenlehre -->
+                <value>https://www.youtube.com/watch?v=yCwnifwVjIg</value>
+            </hilfe>
+            <loesung>block1_loesung2b</loesung>
+            <time>8.5</time>
+            <avguc>85</avguc>
+            <avgdc></avgdc>
+            <avguf>1.25</avguf>
+            <avgdf></avgdf>
+            <avgut>4.10</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <!-- Block 1, Aufgabe 2c -->
+            <text></text>
+            <bild>block1_aufg2c</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=0Gyv9ce7f8I</value>
+            </hilfe>
+            <loesung>block1_loesung2c</loesung>
+            <time>9.0</time>
+            <avguc>70</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>4.78</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>

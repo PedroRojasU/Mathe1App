@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 2, Aufgabe 1 -->
+			<text></text>
+			<bild>block2_aufg1</bild>
+		  	<hilfe>
+			<!-- symmetrie properties-->
+				<value>https://www.youtube.com/watch?v=Z3TnbxYWlno</value>
+        		<value>https://www.youtube.com/watch?v=k7NGnM-7iBA</value>
+				<value>https://www.youtube.com/watch?v=7ia3uTJpa9E</value>
+				<value>https://www.youtube.com/watch?v=cUzZ-qu3xws</value>
+			<!-- calculate limits-->
+				<value>https://www.youtube.com/watch?v=TUPkwGlrT8A</value>
+				<value>https://www.youtube.com/watch?v=8Yj07PBIw9M</value>
+				<value>https://www.youtube.com/watch?v=uf9x3Kau3UE</value>
+        		<value>https://www.youtube.com/watch?v=2SbwwI9RxIc</value>
+				<value>https://www.youtube.com/watch?v=orBS7XfSOag</value>
+				<value>https://www.youtube.com/watch?v=eGEW67LdpRE</value>
+			<!-- calculate definition and value range-->
+				<value>https://www.youtube.com/watch?v=fyROLkZc75E</value>
+				<value>https://www.youtube.com/watch?v=BxaYyS6lsQ4</value>
+				<value>https://www.youtube.com/watch?v=hZEGZMb4uzQ</value>
+        		<value>https://www.youtube.com/watch?v=0M3Dv106YBY</value>
+				<value>https://www.youtube.com/watch?v=zHWwzOh3elg</value>
+				<value>https://www.youtube.com/watch?v=7eOGsqbjWqY</value>
+			</hilfe>
+		  	<loesung>block2_loesung1</loesung>
+            <time>11.0</time>
+            <avguc>76</avguc>
+            <avgdc></avgdc>
+            <avguf>0.6</avguf>
+            <avgdf></avgdf>
+            <avgut>5.42</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 2, Aufgabe 2 -->
+			<text></text>
+			<bild>block2_aufg2</bild>
+			<hilfe>
+			<!-- symmetrie properties-->
+				<value>https://www.youtube.com/watch?v=Z3TnbxYWlno</value>
+        		<value>https://www.youtube.com/watch?v=k7NGnM-7iBA</value>
+				<value>https://www.youtube.com/watch?v=7ia3uTJpa9E</value>
+				<value>https://www.youtube.com/watch?v=cUzZ-qu3xws</value>
+			<!-- calculate limits-->
+				<value>https://www.youtube.com/watch?v=TUPkwGlrT8A</value>
+				<value>https://www.youtube.com/watch?v=8Yj07PBIw9M</value>
+				<value>https://www.youtube.com/watch?v=uf9x3Kau3UE</value>
+        		<value>https://www.youtube.com/watch?v=2SbwwI9RxIc</value>
+				<value>https://www.youtube.com/watch?v=orBS7XfSOag</value>
+				<value>https://www.youtube.com/watch?v=eGEW67LdpRE</value>
+			<!-- calculate definition and value range-->
+				<value>https://www.youtube.com/watch?v=fyROLkZc75E</value>
+				<value>https://www.youtube.com/watch?v=BxaYyS6lsQ4</value>
+				<value>https://www.youtube.com/watch?v=hZEGZMb4uzQ</value>
+        		<value>https://www.youtube.com/watch?v=0M3Dv106YBY</value>
+				<value>https://www.youtube.com/watch?v=zHWwzOh3elg</value>
+				<value>https://www.youtube.com/watch?v=7eOGsqbjWqY</value>
+			</hilfe>
+			<loesung>block2_loesung2</loesung>
+            <time>13.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1.2</avguf>
+            <avgdf></avgdf>
+            <avgut>6.33</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="3">
+		<!-- Block 2, Aufgabe 3 -->
+			<text></text>
+			<bild>block2_aufg3</bild>
+			<hilfe>
+			<!-- symmetrie properties-->
+				<value>https://www.youtube.com/watch?v=Z3TnbxYWlno</value>
+        		<value>https://www.youtube.com/watch?v=k7NGnM-7iBA</value>
+				<value>https://www.youtube.com/watch?v=7ia3uTJpa9E</value>
+				<value>https://www.youtube.com/watch?v=cUzZ-qu3xws</value>
+			<!-- calculate limits-->
+				<value>https://www.youtube.com/watch?v=TUPkwGlrT8A</value>
+				<value>https://www.youtube.com/watch?v=8Yj07PBIw9M</value>
+				<value>https://www.youtube.com/watch?v=uf9x3Kau3UE</value>
+        		<value>https://www.youtube.com/watch?v=2SbwwI9RxIc</value>
+				<value>https://www.youtube.com/watch?v=orBS7XfSOag</value>
+				<value>https://www.youtube.com/watch?v=eGEW67LdpRE</value>
+			<!-- calculate definition and value range-->
+				<value>https://www.youtube.com/watch?v=fyROLkZc75E</value>
+				<value>https://www.youtube.com/watch?v=BxaYyS6lsQ4</value>
+				<value>https://www.youtube.com/watch?v=hZEGZMb4uzQ</value>
+        		<value>https://www.youtube.com/watch?v=0M3Dv106YBY</value>
+				<value>https://www.youtube.com/watch?v=zHWwzOh3elg</value>
+				<value>https://www.youtube.com/watch?v=7eOGsqbjWqY</value>
+			</hilfe>
+			<loesung>block2_loesung3</loesung>
+            <time>9.5</time>
+            <avguc>76</avguc>
+            <avgdc></avgdc>
+            <avguf>0.2</avguf>
+            <avgdf></avgdf>
+            <avgut>4.88</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="4">
+		<!-- Block 3, Aufgabe 1 -->
+			<text></text>
+			<bild>block3_aufg1</bild>
+			<hilfe>
+				<value>https://www.youtube.com/watch?v=c1N8zyVhWxM</value>
+        		<value>https://www.youtube.com/watch?v=lDY9JcFaRd4</value>
+				<value>https://www.youtube.com/watch?v=OVSi6RRqgi0</value>
+				<value>https://www.youtube.com/watch?v=3TJLOCYrTes</value>
+			</hilfe>
+			<loesung>block3_loesung1</loesung>
+            <time>11</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.6</avguf>
+            <avgdf></avgdf>
+            <avgut>5.33</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="5">
+		<!-- Block 3, Aufgabe 2 -->
+			<text></text>
+			<bild>block3_aufg2</bild>
+			<hilfe>
+				<value>https://www.youtube.com/watch?v=c1N8zyVhWxM</value>
+        		<value>https://www.youtube.com/watch?v=lDY9JcFaRd4</value>
+				<value>https://www.youtube.com/watch?v=OVSi6RRqgi0</value>
+				<value>https://www.youtube.com/watch?v=3TJLOCYrTes</value>
+			</hilfe>
+			<loesung>block3_loesung2</loesung>
+            <time>10</time>
+            <avguc>76</avguc>
+            <avgdc></avgdc>
+            <avguf>0.2</avguf>
+            <avgdf></avgdf>
+            <avgut>5</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+	</aufgaben>
+</test>

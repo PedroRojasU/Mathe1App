@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+    <aufgaben>
+        <aufgabe id="1">
+            <!-- Block 4, Aufgabe 1 -->
+            <text></text>
+            <bild>block4_aufg1</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=9HdcWpehOBQ</value>
+                <value>https://www.youtube.com/watch?v=f6cGotvktxs</value>
+            </hilfe>
+            <loesung>block4_loesung1</loesung>
+            <time>9.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.8</avguf>
+            <avgdf></avgdf>
+            <avgut>4.28</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="2">
+            <!-- Block 4, Aufgabe 2 -->
+            <text></text>
+            <bild>block4_aufg2</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=9HdcWpehOBQ</value>
+                <value>https://www.youtube.com/watch?v=f6cGotvktxs</value>
+            </hilfe>
+            <loesung>block4_loesung2</loesung>
+            <time>12.0</time>
+            <avguc>76</avguc>
+            <avgdc></avgdc>
+            <avguf>0.8</avguf>
+            <avgdf></avgdf>
+            <avgut>5.58</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="3">
+            <!-- Block 4, Aufgabe 3 -->
+            <text></text>
+            <bild>block4_aufg3</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=9HdcWpehOBQ</value>
+                <value>https://www.youtube.com/watch?v=f6cGotvktxs</value>
+            </hilfe>
+            <loesung>block4_loesung3</loesung>
+            <time>12.5</time>
+            <avguc>76</avguc>
+            <avgdc></avgdc>
+            <avguf>0.4</avguf>
+            <avgdf></avgdf>
+            <avgut>6.45</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+            <!-- Block 5, Aufgabe 1 -->
+            <text>Cálculos con Matrices:</text>
+            <bild>block5_aufg1</bild>
+            <hilfe>
+                <!-- Matrix by determinants -->
+                <value>https://www.youtube.com/watch?v=SJOTtb1FTfs</value>
+                <value>https://www.youtube.com/watch?v=21LWuY8i6Hw</value>
+                <value>https://www.youtube.com/watch?v=ROFcVgehEYA</value>
+
+                <!-- Matrix by Gaussian elimination -->
+                <value>https://www.youtube.com/watch?v=2j5Ic2V7wq4</value>
+                <value>https://www.youtube.com/watch?v=ybQbWYBEZzc</value>
+                <value>https://www.youtube.com/watch?v=00v0jJDNhRM</value>
+            </hilfe>
+            <loesung>block5_loesung1</loesung>
+            <time>16.0</time>
+            <avguc>84</avguc>
+            <avgdc></avgdc>
+            <avguf>0.8</avguf>
+            <avgdf></avgdf>
+            <avgut>7.83</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+            <!-- Block 5, Aufgabe 2 -->
+            <text>Cálculos con Matrices:</text>
+            <bild>block5_aufg2</bild>
+            <hilfe>
+                <!-- Calculate inverse matrix -->
+                <value>https://www.youtube.com/watch?v=w2t9VADaw10</value>
+                <value>https://www.youtube.com/watch?v=YvjkPF6C_LI</value>
+
+                <!-- Matrix by Gaussian elemination-->
+                <value>https://www.youtube.com/watch?v=2j5Ic2V7wq4</value>
+                <value>https://www.youtube.com/watch?v=ybQbWYBEZzc</value>
+                <value>https://www.youtube.com/watch?v=00v0jJDNhRM</value>
+            </hilfe>
+            <loesung>block5_loesung2</loesung>
+            <time>10.5</time>
+            <avguc>84</avguc>
+            <avgdc></avgdc>
+            <avguf>0.6</avguf>
+            <avgdf></avgdf>
+            <avgut>5.40</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+    </aufgaben>
+</test>

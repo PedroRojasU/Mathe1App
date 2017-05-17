@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 1, Aufgabe 2a -->
+			<text></text>
+			<bild>block1_aufg2a</bild>
+			<hilfe>
+				<value>https://www.youtube.com/watch?v=wRMC-ttjhwM</value>
+				<value>https://www.youtube.com/watch?v=OLGVhszBlq4</value>
+			</hilfe>
+			<loesung>block1_loesung2a</loesung>
+            <time>9.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.5</avguf>
+            <avgdf></avgdf>
+            <avgut>4.47</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 1, Aufgabe 3b -->
+			<text>Groups theory:</text>
+			<bild>block1_aufg3b</bild>
+			<hilfe>
+				<value>https://www.youtube.com/watch?v=yCwnifwVjIg</value>
+			</hilfe>
+			<loesung>block1_loesung3b</loesung>
+            <time>11.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0.5</avguf>
+            <avgdf></avgdf>
+            <avgut>5.25</avgut>
+            <avgdt></avgdt>
+		</aufgabe>
+        <aufgabe id="3">
+		<!-- Block 1, Aufgabe 3c -->
+            <text></text>
+            <bild>block1_aufg3c</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=-YouB5zuAI0</value>
+            </hilfe>
+            <loesung>block1_loesung3c</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>3.53</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="4">
+		<!-- Block 1, Aufgabe 4a -->
+            <text></text>
+            <bild>block1_aufg4a</bild>
+            <hilfe>
+				<value>https://www.youtube.com/watch?v=y00dvDkbGbQ</value>
+				<value>https://www.youtube.com/watch?v=OLGVhszBlq4</value>
+			</hilfe>
+            <loesung>block1_loesung4a</loesung>
+            <time>8.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>1</avguf>
+            <avgdf></avgdf>
+            <avgut>3.93</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+        <aufgabe id="5">
+		<!-- Block 1, Aufgabe 5c -->
+            <text></text>
+            <bild>block1_aufg5c</bild>
+            <hilfe>
+                <value>https://www.youtube.com/watch?v=yCwnifwVjIg</value>
+            </hilfe>
+            <loesung>block1_loesung5c</loesung>
+            <time>12.0</time>
+            <avguc>80</avguc>
+            <avgdc></avgdc>
+            <avguf>0</avguf>
+            <avgdf></avgdf>
+            <avgut>5.98</avgut>
+            <avgdt></avgdt>
+        </aufgabe>
+	</aufgaben>
+</test>

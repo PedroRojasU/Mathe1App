@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- <!DOCTYPE test SYSTEM "test.dtd"> -->
+<test id="1" lang="deutsch">
+	<aufgaben>
+		<aufgabe id="1">
+		<!-- Block 4, Aufgabe 1 -->
+			<text></text>
+			<bild>block4_aufg1</bild>
+			<hilfe>
+				<value>http://www.frustfrei-lernen.de/mathematik/integralrechnung.html</value>
+				<value>http://www.mathebibel.de/integralrechnung</value>
+				<value>https://www.youtube.com/watch?v=wQTOV2zqHFE</value>
+				<value>https://www.youtube.com/watch?v=ARAzeSH9J9g</value>
+				<value>https://www.youtube.com/watch?v=2zVgFO-z-nY</value>
+			</hilfe>
+			<loesung>block4_loesung1</loesung>
+			<time>9.0</time>
+			<avguc>80</avguc>
+			<avgdc></avgdc>
+			<avguf>0.8</avguf>
+			<avgdf></avgdf>
+			<avgut>4.28</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="2">
+		<!-- Block 4, Aufgabe 2 -->
+			<text></text>
+			<bild>block4_aufg2</bild>
+			<hilfe>
+				<value>http://www.frustfrei-lernen.de/mathematik/integralrechnung.html</value>
+				<value>http://www.mathebibel.de/integralrechnung</value>
+				<value>https://www.youtube.com/watch?v=wQTOV2zqHFE</value>
+				<value>https://www.youtube.com/watch?v=ARAzeSH9J9g</value>
+				<value>https://www.youtube.com/watch?v=2zVgFO-z-nY</value>
+			</hilfe>
+			<loesung>block4_loesung2</loesung>
+			<time>12.0</time>
+			<avguc>76</avguc>
+			<avgdc></avgdc>
+			<avguf>0.8</avguf>
+			<avgdf></avgdf>
+			<avgut>5.58</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="3">
+		<!-- Block 4, Aufgabe 3 -->
+			<text></text>
+			<bild>block4_aufg3</bild>
+			<hilfe>
+				<value>http://www.frustfrei-lernen.de/mathematik/integralrechnung.html</value>
+				<value>http://www.mathebibel.de/integralrechnung</value>
+				<value>https://www.youtube.com/watch?v=wQTOV2zqHFE</value>
+				<value>https://www.youtube.com/watch?v=ARAzeSH9J9g</value>
+				<value>https://www.youtube.com/watch?v=2zVgFO-z-nY</value>
+			</hilfe>
+			<loesung>block4_loesung3</loesung>
+			<time>12.5</time>
+			<avguc>76</avguc>
+			<avgdc></avgdc>
+			<avguf>0.4</avguf>
+			<avgdf></avgdf>
+			<avgut>6.45</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="4">
+		<!-- Block 5, Aufgabe 1 -->
+			<text>Matrizenrechnung:</text>
+			<bild>block5_aufg1</bild>
+			<hilfe>
+			<!-- Matrizenrechnung nach Determinatenmethode -->
+				<value>http://www.abi-mathe.de/buch/matrizen/cramersche-regel/</value>
+				<value>https://oberprima.com/mathematik/matrizenrechnung/</value>
+				<value>http://www.chemgapedia.de/vsengine/vlu/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_05.vlu/Page/vsc/de/ma/1/mc/ma_11/ma_11_02/ma_11_02_09.vscml.html</value>
+				<value>https://www.youtube.com/watch?v=a_iwXNHhXa0</value>
+				<value>https://www.youtube.com/watch?v=vWf7nSRQTAI</value>
+				
+			<!-- Matrizenrechnung nach Gauß-Algorithmus -->
+				<value>http://www.mathebibel.de/gauss-algorithmus</value>
+				<value>http://www.mathebibel.de/inverse-matrix-berechnen-nach-gauss-jordan</value>
+				<value>http://www.arndt-bruenner.de/mathe/9/lgsbsp2.htm</value>
+				<value>https://www.youtube.com/watch?v=N4iuTaHUC80</value>
+				<value>https://www.youtube.com/watch?v=BkU8zejSys4</value>
+				<value>https://www.youtube.com/watch?v=8Uut7RAnqEI</value>
+			</hilfe>
+			<loesung>block5_loesung1</loesung>
+			<time>16.0</time>
+			<avguc>84</avguc>
+			<avgdc></avgdc>
+			<avguf>0.8</avguf>
+			<avgdf></avgdf>
+			<avgut>7.83</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+		<aufgabe id="5">
+		<!-- Block 5, Aufgabe 2 -->
+			<text>Matrizenrechnung:</text>
+			<bild>block5_aufg2</bild>
+			<hilfe>
+			<!-- Inverse Matrix berechnen -->
+				<value>http://www.arndt-bruenner.de/mathe/scripts/inversematrix.htm</value>
+				<value>http://www.mathebibel.de/inverse-matrix-berechnen-nach-gauss-jordan</value>
+				<value>http://statistik.wu-wien.ac.at/~leydold/MOK/HTML/node31.html</value>
+				<value>https://www.youtube.com/watch?v=YGnCxuE2LKg</value>
+				<value>https://www.youtube.com/watch?v=LmiF_iCV-Fk</value>
+				<value>https://www.youtube.com/watch?v=AFKJmlZ8kTQ</value>
+			
+			<!-- Matrizenrechnung nach Gauß-Algorithmus -->
+				<value>http://www.mathebibel.de/gauss-algorithmus</value>
+				<value>http://www.mathebibel.de/inverse-matrix-berechnen-nach-gauss-jordan</value>
+				<value>http://www.arndt-bruenner.de/mathe/9/lgsbsp2.htm</value>
+				<value>https://www.youtube.com/watch?v=N4iuTaHUC80</value>
+				<value>https://www.youtube.com/watch?v=BkU8zejSys4</value>
+				<value>https://www.youtube.com/watch?v=8Uut7RAnqEI</value>
+			
+			</hilfe>
+			<loesung>block5_loesung2</loesung>
+			<time>10.5</time>
+			<avguc>84</avguc>
+			<avgdc></avgdc>
+			<avguf>0.6</avguf>
+			<avgdf></avgdf>
+			<avgut>5.40</avgut>
+			<avgdt></avgdt>
+		</aufgabe>
+	</aufgaben>
+</test>
